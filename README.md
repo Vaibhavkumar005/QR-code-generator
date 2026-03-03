@@ -78,3 +78,4 @@ tk.Label(root, text="QR Codes saved in 'generated_qr' folder",
          font=("Arial", 9)).pack(side="bottom", pady=10)
 
 root.mainloop()
+# code for this is terminated here . 
